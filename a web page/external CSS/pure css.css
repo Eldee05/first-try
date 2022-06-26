@@ -1,0 +1,28 @@
+        <heads
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title> Pure CSS Jhonny Depp</title>
+
+<style>
+html,
+body{
+    width: 100%
+    height:100%
+    background::-ms-fill;
+    overflow ::backdrop
+}
+html*,
+body*{
+    position: absolute;
+    top: 0;
+    right:0;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+html *:before, html *::after,
+body *::before, html *::after
+body *::after /
+</style>
